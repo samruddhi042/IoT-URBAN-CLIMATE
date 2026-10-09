@@ -21,7 +21,7 @@ Many studies map heat using satellite images or analyse selected locations and t
 ## Illustrative Heat Maps
 The image below is an **illustrative overview graphic**, not a verified reproduction of original figures from the research papers. For academic presentations, use the original heat-map figures from each paper and cite the relevant source.
 
-![Illustrative overview of UHI, global warming, El Niño, example heat maps, and research comparison](a_clean_infographic_slide_style_poster_with_a_whit.png)
+<img width="1199" height="1312" alt="clean_infographic" src="https://github.com/user-attachments/assets/34179e68-a323-4e31-9964-1e7809196e4b" />
 
 ## Note
 UHI, global warming, and El Niño are related but distinct: UHI is a local urban effect, global warming is a long-term global trend, and El Niño is a naturally recurring climate pattern. Their impacts should be analysed separately before drawing conclusions about how they interact.
