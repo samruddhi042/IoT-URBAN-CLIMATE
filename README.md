@@ -19,8 +19,7 @@ Across the reviewed papers, we compare:
 Many studies map heat using satellite images or analyse selected locations and time periods. Our proposed direction is to explore how **continuous IoT sensor readings**, combined with spatial heat maps and local analysis, could complement these approaches and help identify when and where mitigation may be needed.
 
 ## Illustrative Heat Maps
-The image below is an **illustrative overview graphic**, not a verified reproduction of original figures from the research papers. For academic presentations, use the original heat-map figures from each paper and cite the relevant source.
-
+The image below is an **illustrative overview graphic**
 <img width="1199" height="1312" alt="clean_infographic" src="https://github.com/user-attachments/assets/34179e68-a323-4e31-9964-1e7809196e4b" />
 
 ## Note
