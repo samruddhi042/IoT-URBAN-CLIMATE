@@ -120,4 +120,3 @@ To make the project research-oriented, evaluate the system using measurable crit
 - Verify exact prediction metrics and baseline comparisons in the IoT/RNN and heatstroke-forecasting papers.
 - For a global warming and El Niño comparison, add separate authoritative climate sources and compare equivalent time periods; do not infer an El Niño effect from these UHI papers alone.
 
-**End of comparison README.**
