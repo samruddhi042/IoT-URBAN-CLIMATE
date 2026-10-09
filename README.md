@@ -20,6 +20,7 @@ Many studies map heat using satellite images or analyse selected locations and t
 
 ## Illustrative Heat Maps
 The image below is an **illustrative overview graphic**
+
 <img width="1199" height="1312" alt="clean_infographic" src="https://github.com/user-attachments/assets/34179e68-a323-4e31-9964-1e7809196e4b" />
 
 ## Note
